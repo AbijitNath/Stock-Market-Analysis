@@ -2,15 +2,6 @@
 # Machine Learning for Day Trading
 
 ## Capstone Project
-
-Please fill out:
-* Student name: Arseniy Tyurin
-* Student pace: self paced
-* Scheduled project review date/time: 11/11/19, 5:00PM (GMT-5)
-* Instructor name: Eli Thomas
-* Blog post URL: <a href="https://towardsdatascience.com/machine-learning-for-day-trading-27c08274df54" target="_blank">Machine Learning for Day Trading</a>
-
-
 # Introduction
 
 Day trading is speculation in securities, specifically buying and selling financial instruments within the same trading day, such that all positions are closed before the market closes for the trading day. Traders who trade in this capacity with the motive of profit are therefore speculators.
